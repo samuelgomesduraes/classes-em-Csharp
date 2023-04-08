@@ -1,0 +1,17 @@
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\classes csharp.deps.json
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\classes csharp.runtimeconfig.json
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\classes csharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\classes csharp.pdb
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.AssemblyInfo.cs
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.csproj.CopyComplete
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\refint\classes csharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.pdb
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\classes csharp.genruntimeconfig.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\classes csharp\.godot\mono\temp\obj\Debug\ref\classes csharp.dll
